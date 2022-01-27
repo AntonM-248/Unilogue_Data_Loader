@@ -33,3 +33,5 @@ build/
 .vscode/
 ### secure bundle ###
 *secure-connect.zip
+
+*application.yml
